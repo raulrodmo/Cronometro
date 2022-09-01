@@ -1,4 +1,4 @@
-Repositório criado para desenvolvimento de um cronômetro.
+O projeto consiste em uma página com um cronômetro que exibe minutos, segundos e centésimos de segundo,para utilizá-lo existem 3 botões "Start", "Stop" e "Reset".
 <br>
 Link de visualização: https://cronometro-raulrodmo.netlify.app/
 <br>
