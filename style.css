@@ -34,7 +34,7 @@ button{
     outline: none;
 }
 
-#button-start:hover, #button-stop:hover, #button-reset:hover {
+#button_start:hover, #button_stop:hover, #button_reset:hover {
     background: #fff;
     color: #ffa600;
 }

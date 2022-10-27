@@ -5,9 +5,9 @@ window.onload = function () {
     var appendTens = document.getElementById("tens")
     var appendSeconds = document.getElementById("seconds")
     var appendMinutes = document.getElementById("minutes")
-    var buttonStart = document.getElementById('button-start');
-    var buttonStop = document.getElementById('button-stop');
-    var buttonReset = document.getElementById('button-reset');
+    var buttonStart = document.getElementById('button_start');
+    var buttonStop = document.getElementById('button_stop');
+    var buttonReset = document.getElementById('button_reset');
     var Interval;
 
     buttonStart.onclick = function() {
