@@ -2,8 +2,10 @@ O projeto consiste em uma página com um cronômetro que exibe minutos, segundos
 <br>
 Link de visualização: https://cronometro-raulrodmo.netlify.app/
 <br>
-Abaixo temos uma imagem expositava:
-![image](https://user-images.githubusercontent.com/102265187/186035037-50f7f877-c3b8-49ea-a0ee-842f04f2e5cb.png)
+Abaixo temos um vídeo expositivo do resultado:
+
+https://user-images.githubusercontent.com/102265187/199456196-89abde3a-eff4-429c-b61e-28d47d099e98.mp4
+
 #### Programming languages used
 <div>
       <a href="https://github.com/raulrodmo">
