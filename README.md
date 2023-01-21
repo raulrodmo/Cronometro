@@ -1,13 +1,34 @@
+<h1 align="center"> Cronômetro </h1>
+
+<p align="center">
+Repositório feito para a criação de um cronômetro.<br/>
+</p>
+
+<p align="center">
+  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#project">Project</a>
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="cronometro" src=".github/preview.jpg" width="100%">
+</p>
+
+## 🚀 Technologies
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- JavaScript
+- Git e Github
+
+## 💻 Project
+
 O projeto consiste em uma página com um cronômetro que exibe minutos, segundos e centésimo de segundo, para utilizá-lo existem 3 botões "Start", "Stop" e "Reset".
-<br>
-Link de visualização: https://cronometro-raulrodmo.netlify.app/
-<br>
-Abaixo temos uma imagem expositava:
-![image](https://user-images.githubusercontent.com/102265187/186035037-50f7f877-c3b8-49ea-a0ee-842f04f2e5cb.png)
-#### Programming languages used
-<div>
-      <a href="https://github.com/raulrodmo">
-            <img id="html" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="60" height="60"/>
-            <img id="css" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="60" height="60"/>
-            <img id="js" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" width="60" height="60"/>
-</div>
+
+- [Visite o projeto online](https://cronometro-raulrodmo.netlify.app/)
+
+---
+
+<p align="center">Made with 💜 by raulrodmo</p>
